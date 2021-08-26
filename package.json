@@ -1,0 +1,20 @@
+{
+  "name": "johnson-Primeiro-servidor",
+  "version": "1.0.0",
+  "description": "Primeiro - Servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnson0307/johnson-Primeiro-servidor.git"
+  },
+  "keywords": [],
+  "author": "Johnson Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johnson0307/johnson-Primeiro-servidor/issues"
+  },
+  "homepage": "https://github.com/Johnson0307/johnson-Primeiro-servidor#readme"
+}
